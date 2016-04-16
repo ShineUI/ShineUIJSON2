@@ -1,87 +1,17 @@
 {
 	"wallpapers": [
 		{
-			"name": "1",
-			"author": "Dexy",
-			"url": "blob:https%3A//drive.google.com/f525dc32-b0f1-48de-96d3-6c52b382bc2e",
-			"dimensions": "1920 x 1200",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "10",
-			"author": "Dexy",
-			"url": "https://drive.google.com/open?id=0ByiUdU12rGJLdHFsQjllUmZqQkk",
-			"dimensions": "1920 x 1080",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "11",
-			"author": "Dexy",
-			"url": "https://drive.google.com/open?id=0ByiUdU12rGJLRmd0UVY0MXRWSzg",
-			"dimensions": "5184 x 3456",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "12",
-			"author": "Dexy",
-			"url": "https://drive.google.com/open?id=0ByiUdU12rGJLVVVCWURVb28yaDg",
-			"dimensions": "2048 x 1336",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "2",
-			"author": "Dexy",
-			"url": "https://drive.google.com/open?id=0ByiUdU12rGJLc1pKZUhwNmRKcE0",
+			"name": "Clouds",
+			"author": "Modern",
+			"url": "http://s22.postimg.org/67ub1s9w1/Clouds.jpg",
 			"dimensions": "5184 x 2912",
 			"copyright": "Copyrighted 2016"
 		},
 		{
-			"name": "3",
-			"author": "Dexy",
-			"url": "https://drive.google.com/open?id=0ByiUdU12rGJLNTdueU5tRmVBZXM",
-			"dimensions": "2000 x 1440",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "4",
-			"author": "Dexy",
-			"url": "https://drive.google.com/open?id=0ByiUdU12rGJLVTBkRnlRM2FubkU",
+			"name": "Fabric",
+			"author": "Modern",
+			"url": "http://s9.postimg.org/6i1lbk0jj/Fabric.jpg",
 			"dimensions": "1920 x 1080",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "5",
-			"author": "Dexy",
-			"url": "https://drive.google.com/open?id=0ByiUdU12rGJLaUctektUTll2VFE",
-			"dimensions": "1920 x 1200",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "6",
-			"author": "Dexy",
-			"url": "https://drive.google.com/open?id=0ByiUdU12rGJLQ3ZkUV9wejBibU0",
-			"dimensions": "2048 x 1360",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "7",
-			"author": "Dexy",
-			"url": "https://drive.google.com/open?id=0ByiUdU12rGJLT0hscTJzbzRxbXc",
-			"dimensions": "2560 x 1706",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "8",
-			"author": "Dexy",
-			"url": "https://drive.google.com/open?id=0ByiUdU12rGJLWUhUeDZoTGpBWlk",
-			"dimensions": "1920 x 1080",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "9",
-			"author": "Dexy",
-			"url": "https://drive.google.com/open?id=0ByiUdU12rGJLMmFHSUl4VUc4RGs",
-			"dimensions": "3744 x 2628",
 			"copyright": "Copyrighted 2016"
 		}
 	]
