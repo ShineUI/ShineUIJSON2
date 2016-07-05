@@ -2,87 +2,87 @@
 "wallpapers": 
         [
 		{
-			"name": "Engine",
+			"name": "Mountain",
 			"author": "Modern",
-			"url": "https://s31.postimg.org/n8kfywcxn/Engine.jpg",
+			"url": "http://i.imgur.com/20SvFt2.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyrighted 2016"
+		},
+		{
+			"name": "River",
+			"author": "Modern",
+			"url": "http://i.imgur.com/tOlZAYY.png",
+			"dimensions": "1440x 2560",
+			"copyright": "Copyrighted 2016"
+		},
+		{
+			"name": "Road",
+			"author": "Modern",
+			"url": "http://i.imgur.com/wS772bz.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyrighted 2016"
+		},
+		{
+			"name": "Sand",
+			"author": "Modern",
+			"url": "http://i.imgur.com/BdARs5I.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyrighted 2016"
+		},
+		{
+			"name": "Silk",
+			"author": "Modern",
+			"url": "http://i.imgur.com/j3nuz0Z.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyrighted 2016"
+		},
+		{
+			"name": "Space",
+			"author": "Modern",
+			"url": "http://i.imgur.com/mppymaS.png",
 			"dimensions": "1440 x 2560",
 			"copyright": "Copyrighted 2016"
 		},
 		{
 			"name": "Bridge",
 			"author": "Modern",
-			"url": "https://s31.postimg.org/drfd1rlpn/Bridge.png",
-			"dimensions": "1440x 2560",
+			"url": "http://i.imgur.com/PTPSAR6.jpg",
+			"dimensions": "1440 x 2560",
 			"copyright": "Copyrighted 2016"
 		},
 		{
-			"name": "Girl",
+			"name": "Bridge B&W",
 			"author": "Modern",
-			"url": "http://s24.postimg.org/dkuppicw5/Girl.jpg",
-			"dimensions": "1920 x 1200",
+			"url": "http://i.imgur.com/mLRhJ6K.png",
+			"dimensions": "1440 x 2560",
 			"copyright": "Copyrighted 2016"
 		},
 		{
-			"name": "Nature",
+			"name": "China",
 			"author": "Modern",
-			"url": "http://s24.postimg.org/uj2x2u11h/Nature.jpg",
-			"dimensions": "2000 x 1440",
+			"url": "http://i.imgur.com/F09eH6W.jpg",
+			"dimensions": "1440 x 2560",
 			"copyright": "Copyrighted 2016"
 		},
 		{
-			"name": "Ocean",
+			"name": "Clock",
 			"author": "Modern",
-			"url": "http://s9.postimg.org/88ccob16n/Ocean.jpg",
-			"dimensions": "1920 x 1080",
+			"url": "http://i.imgur.com/3WY3xY2.jpg",
+			"dimensions": "1440 x 2560",
 			"copyright": "Copyrighted 2016"
 		},
 		{
-			"name": "Old",
+			"name": "Engine",
 			"author": "Modern",
-			"url": "http://s23.postimg.org/r6e95ilqj/Old.jpg",
-			"dimensions": "2048 x 1360",
+			"url": "http://i.imgur.com/eX0YZqN.jpg",
+			"dimensions": "1440 x 2560",
 			"copyright": "Copyrighted 2016"
 		},
 		{
-			"name": "Sand",
+			"name": "Field",
 			"author": "Modern",
-			"url": "http://s24.postimg.org/o1xsojuth/Sand.jpg",
-			"dimensions": "5184 x 3456",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "Spring",
-			"author": "Modern",
-			"url": "http://s24.postimg.org/44wgtc1c5/Spring.jpg",
-			"dimensions": "2560 x 1706",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "Stairs",
-			"author": "Modern",
-			"url": "http://s9.postimg.org/w7qxddkn3/Stairs.jpg",
-			"dimensions": "2048 x 1336",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "Storm",
-			"author": "Modern",
-			"url": "http://s22.postimg.org/pcucjxdzl/Storm.jpg",
-			"dimensions": "1920 x 1080",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "Summer",
-			"author": "Modern",
-			"url": "http://s22.postimg.org/b932p9w5t/Summer.jpg",
-			"dimensions": "3744 x 2628",
-			"copyright": "Copyrighted 2016"
-		},
-		{
-			"name": "Tram",
-			"author": "Modern",
-			"url": "http://s24.postimg.org/ubkc3fwed/Tram.jpg",
-			"dimensions": "1920 x 1200",
+			"url": "http://i.imgur.com/M2PZAko.jpg",
+			"dimensions": "1440 x 2560",
 			"copyright": "Copyrighted 2016"
 		}	
 	]
