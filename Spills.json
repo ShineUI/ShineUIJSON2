@@ -1,9 +1,9 @@
 {
     "Collections":[
         {
-            "name":"Landscapes",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+            "name":"Amoled",
+            "preview_url":"http://i.imgur.com/KBz8K9h.png",
+            "preview_thumbnail_url":"http://i.imgur.com/KBz8K9h.png"
         },
         {
             "name":"City",
@@ -24,16 +24,16 @@
     "Wallpapers":[
         {
             "name":"Swords Road",
-            "author":"Spills exclusive",
+            "author":"Spills Exclusive",
             "url":"http://i.imgur.com/sfzOsXn.jpg",
             "collections":"featured,landscapes,people"
         },
         {
-            "name":"ShotB",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+            "name":"Purple Bash",
+            "author":"Spills Exclusive",
+            "url":"http://i.imgur.com/KBz8K9h.png",
             "dimensions":"3200x2560",
-            "collections":"people,city"
+            "collections":"amoled"
         },
         {
             "author":"Someone",
